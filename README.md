@@ -9,13 +9,11 @@ A fully functional, frontend-focused photobooth application built with Python, S
 - JPG Export: High-quality download button for the final composition.
 
 # Quick Start
-1. Install dependencies:
+1. Save ![[app.py]] in a virtual environment.
+2. Install dependencies:
 ```Bash
 pip install streamlit Pillow
 ```
-
-2. Create the file: Save the following code as app.py.
-
 3. Run the app:
 ```Bash
 streamlit run app.py
